@@ -1,6 +1,9 @@
 # PieBox
+### _Unfinished in class Project using Angular CLI 8.11.2017_
+By Michelle Poterek and Jacob Ruleaux
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+## Description
+This is a project focused around building a basic Recipe Box application in Angular CLI from scratch. Recipe objects will be hardcoded with the properties of title, ingredients, and directions.
 
 ## Development server
 
